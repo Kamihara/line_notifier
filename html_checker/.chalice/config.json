@@ -1,0 +1,13 @@
+{
+  "version": "2.0",
+  "app_name": "html_checker",
+  "stages": {
+    "dev": {
+      "api_gateway_stage": "api",
+      "environment_variables": {
+        "LINE_CHANNEL_SECRET": "c9fbaa699d570c75598dbcc7de8c0544",
+        "LINE_CHANNEL_ACCESS_TOKEN": "jV91aUy1HupqZT6Uy6fYEmT/6Q1hPZuzIEVVrL/TweqwbIYqPDxJ90vXer59rGs/HU7p3jaXxBT34nomyIf5AxZDYuwvu1a3En+g5DS0Un9zZKqPmWBLNi8m+ydB28WQgPjMAXvlVdZZr3X4jDohJgdB04t89/1O/w1cDnyilFU="
+      }
+    }
+  }
+}
